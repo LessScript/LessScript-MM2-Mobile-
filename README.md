@@ -34,7 +34,7 @@
 |-------------|--------|
 | `LSMM2-XXXXXX-X-XX` | `LSMM2-A1B2C3-D-EF` |
 
-> Для получения ключа обращайтесь к боту: [@LessScriptArsenal-Bot](https://t.me/LessScriptArsenal-Bot)
+> Для получения ключа обращайтесь к боту: [@LessScriptArsenal_Bot](https://t.me/LessScriptArsenal_Bot)
 
 ---
 
