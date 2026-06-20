@@ -1,1 +1,1 @@
-# LessScript-MM2-Mobile-
+# LessScript MM2 (Mobile)
